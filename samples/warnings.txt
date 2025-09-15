@@ -1,1 +1,3 @@
 src/foo.cpp:12: warning: something happened
+include/bar.h:8: error: another thing
+not a standard line
